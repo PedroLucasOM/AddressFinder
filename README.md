@@ -14,6 +14,10 @@ Execute `ng serve` para iniciar locamente a aplicação. Navegue para `http://lo
 
 ## Em execução
 
+#### Tela inicial
+
 ![](https://github.com/PedroLucasOM/FindMyAddressByCEP/blob/master/src/assets/imagens/findbycep_1.png)
+
+#### Tela de resultado
 
 ![](https://github.com/PedroLucasOM/FindMyAddressByCEP/blob/master/src/assets/imagens/findbycep_2.png)
