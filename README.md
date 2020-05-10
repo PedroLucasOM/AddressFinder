@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to AddressFinder 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/npm-%3E%3D12.16.1-blue.svg" />
-  <img src="https://img.shields.io/badge/node-%3E%3D6.13.4-blue.svg" />
+  <img src="https://img.shields.io/badge/npm-%3E%3D6.13.4-blue.svg" />
+  <img src="https://img.shields.io/badge/node-%3E%3D12.16.1-blue.svg" />
   <img src="https://img.shields.io/badge/%40angular-8.1.3-blue.svg" />
   <a href="https://github.com/PedroLucasOM/AddressFinder#readme" target="_blank">
     <img alt="documentation" src="https://img.shields.io/badge/documentation-yes-green.svg" />
@@ -24,8 +24,8 @@
 
 ## Prerequisites
 
-- npm >=12.16.1
-- node >=6.13.4
+- npm >=6.13.4
+- node >=12.16.1
 - @angular = 8.1.3
 
 ## Install
