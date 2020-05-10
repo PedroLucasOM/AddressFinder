@@ -35,13 +35,7 @@ npm install
 ## Usage
 
 ```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
+ng serve
 ```
 
 ## Author
@@ -66,4 +60,3 @@ Copyright © 2020 [Pedro Lucas](https://github.com/PedroLucasOM).<br />
 This project is [MIT](https://github.com/PedroLucasOM/AddressFinder/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
