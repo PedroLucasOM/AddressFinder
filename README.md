@@ -58,5 +58,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [Pedro Lucas](https://github.com/PedroLucasOM).<br />
 This project is [MIT](https://github.com/PedroLucasOM/AddressFinder/blob/master/LICENSE) licensed.
-
-***
