@@ -26,6 +26,7 @@
 
 - npm >=12.16.1
 - node >=6.13.4
+- @angular = 8.1.3
 
 ## Install
 
@@ -38,6 +39,16 @@ npm install
 ```sh
 ng serve
 ```
+
+#### CEP Input
+
+<img align="center" src="https://github.com/PedroLucasOM/AddressFinder/blob/master/src/assets/imagens/findbycep_1.png" />
+<br />
+
+#### Address Result
+
+<img align="center" src="https://github.com/PedroLucasOM/AddressFinder/blob/master/src/assets/imagens/findbycep_2.png" />
+<br />
 
 ## Author
 
